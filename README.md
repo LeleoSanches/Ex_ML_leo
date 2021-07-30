@@ -1,5 +1,5 @@
 # Exercício Machine Learning
-Solução da Prova prática desenvolvido por Leonardo Goshi Sanches
+Solução da Prova prática desenvolvido por Leonardo Goshi Sanches (leosanches@uel.br)
 - - -
 PROVA PRÁTICA_Processo Seletivo - 01465/2021 - Pesquisador I - Machine Learning
 - - -
