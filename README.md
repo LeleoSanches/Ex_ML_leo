@@ -9,3 +9,4 @@ PROVA PRÁTICA_Processo Seletivo - 01465/2021 - Pesquisador I - Machine Learning
  * **Pipeline.jpeg**: Arquitetura de solução do problema
 - - -
 # Pipeline
+![Solução](Pipeline.jpeg)
